@@ -8,8 +8,8 @@ Created on Mon Oct 30 15:09:38 2017
 from global_set import *
 # settings
 train_ratio = 0.8
-epochs = 2
-batch_size = 50
+epochs = 300
+batch_size = 30
 model_name = 'keras_affine_est.h5'
 pretrained_model_name = 'keras_affine_est.h5'
 
